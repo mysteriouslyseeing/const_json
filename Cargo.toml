@@ -4,5 +4,6 @@ version = "0.1.0"
 edition = "2024"
 license = "MIT"
 description = "Provides a way to embed and access const JSON in Rust code"
+repository = "https://github.com/mysteriouslyseeing/const_json"
 
 [dependencies]
